@@ -39,7 +39,7 @@ void Game::Init()
 	ResourceManager::LoadTexture("texture/block.png", GL_FALSE, "block");
 	ResourceManager::LoadTexture("texture/block_solid.png", GL_FALSE, "block_solid");
 	ResourceManager::LoadTexture("texture/paddle.png", GL_TRUE, "paddle");
-	ResourceManager::LoadTexture("texture/Ball.png", GL_FALSE, "ball");
+	ResourceManager::LoadTexture("texture/Ball.png", GL_TRUE, "ball");
 	ResourceManager::LoadTexture("texture/particle.png", GL_TRUE, "particle");
 
 	// set Render specific controls
