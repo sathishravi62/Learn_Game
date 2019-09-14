@@ -1,5 +1,6 @@
 # Learn_Game
-# Thanks to Joey de vries for the wonderfull tutorial which helped me to learn graphics promaramming.
+#Thanks to Joey de vries for the wonderful tutorial which helped me to learn graphics programming. 
+
 https://joeydevries.com/#home
 
 https://learnopengl.com
