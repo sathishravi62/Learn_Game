@@ -6,7 +6,11 @@ https://joeydevries.com/#home
 https://learnopengl.com
 
 
-Created an 2D Brick Braker Game in OpenGL. all the required library will be available in this project its self.
+Created an 2D Brick Braker Game in OpenGL. all the required library will be available in the
+
+
+
+ project its self.
 Setting Up the Project
 * Open the project in visual studio.
 * Mostly you wont get any linking error if your getting so follow this steps.
