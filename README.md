@@ -47,6 +47,7 @@ we have linked the project so build and chceck for any linker error any error ki
 If you run the program will start.
 GO and explore the project and see what is happening.
 
+Check the Wiki for more detail about the class.
 
 
 
